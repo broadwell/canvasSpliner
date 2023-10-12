@@ -24,6 +24,6 @@
     "rollup-plugin-node-resolve": "^2.0.0"
   },
   "dependencies": {
-    "splines": "jonathanlurie/splines"
+    "splines": "broadwell/splines"
   }
 }
